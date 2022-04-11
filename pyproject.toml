@@ -18,6 +18,7 @@ jupyter = "^1.0.0"
 qtconsole = "^5.3.0"
 PyQt5 = "^5.15.6"
 sklearn = "^0.0"
+xgboost = "^1.5.2"
 
 [tool.poetry.dev-dependencies]
 
